@@ -49,10 +49,11 @@ def visualize_kmeans_clustering(x_final_norm, kmeans_model):
     # Visualisasi K-Means Clustering
     plt.figure(figsize=(8, 6))
     # Menggunakan palet warna yang berbeda-beda untuk setiap kluster
-    sns.scatterplot(x_final_pca[:, 0], x_final_pca[:, 1], hue=kmeans_labels, palette='tab10', legend='full')
+    sns.scatterplot(x=x_final_pca[:, 0], y=x_final_pca[:, 1], hue=kmeans_labels, palette='tab10')
     plt.title('K-Means Clustering')
     plt.legend(title='Cluster')
     st.pyplot()
+
 
     
 def main():

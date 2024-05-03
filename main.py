@@ -39,12 +39,16 @@ def kmeans(data):
 
 
 def visualize_kmeans_clustering(x_final_norm, kmeans_model):
+    # Normalisasi data menggunakan MinMaxScaler
+    scaler = MinMaxScaler()
+    x_final_norm_scaled = scaler.fit_transform(x_final_norm)
+    
     # Reduksi dimensi menggunakan PCA
     pca = PCA(n_components=2)
-    x_pca = pca.fit_transform(x_final_norm)
+    x_pca = pca.fit_transform(x_final_norm_scaled)
     
     # Prediksi label kluster menggunakan model K-Means
-    kmeans_labels = kmeans_model.predict(x_final_norm)
+    kmeans_labels = kmeans_model.predict(x_final_norm_scaled)
 
     # Visualisasi K-Means Clustering
     plt.figure(figsize=(8, 6))

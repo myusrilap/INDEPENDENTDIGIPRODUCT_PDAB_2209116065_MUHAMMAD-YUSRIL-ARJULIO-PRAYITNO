@@ -5,6 +5,7 @@ import seaborn as sns
 from streamlit_option_menu import option_menu
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
+from sklearn.preprocessing import MinMaxScaler
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
@@ -14,21 +15,28 @@ def load_data():
 def load_data2():
     return pd.read_csv('Data_Cleaned.csv')
 
+
+
 def kmeans(data):
+    # Normalisasi data menggunakan MinMaxScaler
+    scaler = MinMaxScaler()
+    data_normalized = scaler.fit_transform(data)
+
     kmeans_model = KMeans(n_clusters=4, random_state=42)
 
-    # Melatih model dengan data
-    kmeans_model.fit(data)
+    # Melatih model dengan data yang sudah dinormalisasi
+    kmeans_model.fit(data_normalized)
 
     # Prediksi cluster untuk setiap data
-    cluster_labels = kmeans_model.predict(data)
+    cluster_labels = kmeans_model.predict(data_normalized)
 
     # Gabungkan data dengan label cluster
-    data_with_clusters = pd.concat([pd.DataFrame(data), pd.Series(cluster_labels, name='Cluster')], axis=1)
+    data_with_clusters = pd.concat([pd.DataFrame(data_normalized, columns=data.columns), pd.Series(cluster_labels, name='Cluster')], axis=1)
 
     st.write(data_with_clusters)
 
     return kmeans_model, data_with_clusters
+
 
 def visualize_kmeans_clustering(x_final_norm, kmeans_model):
     # Reduksi dimensi dengan PCA

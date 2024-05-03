@@ -56,7 +56,8 @@ def visualize_kmeans_clustering(x_final_norm, kmeans_model):
     sns.scatterplot(x=x_pca[:, 0], y=x_pca[:, 1], hue=kmeans_labels, palette='tab10', s=100)
     plt.title('K-Means Clustering')
     plt.legend(title='Cluster')
-    plt.axis('equal')  # Menyesuaikan skala sumbu x dan y
+    plt.grid(True)
+    plt.tight_layout()
     st.pyplot()
     
 def main():
@@ -196,7 +197,6 @@ def main():
         kmeans_model, data_with_clusters = kmeans(x_final_norm)
         st.subheader("Visualisasi Klustering")
         visualize_kmeans_clustering(x_final_norm, kmeans_model)
-        
         
         st.subheader("Analisis Klaster Pelanggan")
 

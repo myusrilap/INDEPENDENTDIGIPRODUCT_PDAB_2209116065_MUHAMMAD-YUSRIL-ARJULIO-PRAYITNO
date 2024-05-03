@@ -39,20 +39,21 @@ def kmeans(data):
 
 
 def visualize_kmeans_clustering(x_final_norm, kmeans_model):
+    # Reduksi dimensi menggunakan PCA
+    pca = PCA(n_components=2)
+    x_pca = pca.fit_transform(x_final_norm)
+    
     # Prediksi label kluster menggunakan model K-Means
     kmeans_labels = kmeans_model.predict(x_final_norm)
 
     # Visualisasi K-Means Clustering
     plt.figure(figsize=(8, 6))
     # Menggunakan palet warna yang berbeda-beda untuk setiap kluster
-    sns.scatterplot(x=x_final_norm[:, 0], y=x_final_norm[:, 1], hue=kmeans_labels, palette='tab10', s=100)
+    sns.scatterplot(x=x_pca[:, 0], y=x_pca[:, 1], hue=kmeans_labels, palette='tab10', s=100)
     plt.title('K-Means Clustering')
     plt.legend(title='Cluster')
     plt.axis('equal')  # Menyesuaikan skala sumbu x dan y
     st.pyplot()
-
-
-
     
 def main():
     st.title('Analisis Segmentasi Pelanggan')

@@ -20,18 +20,18 @@ def load_data2():
 def kmeans(data):
     # Normalisasi data menggunakan MinMaxScaler
     scaler = MinMaxScaler()
-    data_normalized = scaler.fit_transform(data)
-
+    data_norm = scaler.fit_transform(data)
+    
     kmeans_model = KMeans(n_clusters=4, random_state=42)
 
-    # Melatih model dengan data yang sudah dinormalisasi
-    kmeans_model.fit(data_normalized)
+    # Melatih model dengan data yang telah dinormalisasi
+    kmeans_model.fit(data_norm)
 
     # Prediksi cluster untuk setiap data
-    cluster_labels = kmeans_model.predict(data_normalized)
+    cluster_labels = kmeans_model.predict(data_norm)
 
-    # Gabungkan data dengan label cluster
-    data_with_clusters = pd.concat([pd.DataFrame(data_normalized, columns=data.columns), pd.Series(cluster_labels, name='Cluster')], axis=1)
+    # Gabungkan data asli dengan label cluster
+    data_with_clusters = pd.concat([data.reset_index(drop=True), pd.Series(cluster_labels, name='Cluster')], axis=1)
 
     st.write(data_with_clusters)
 

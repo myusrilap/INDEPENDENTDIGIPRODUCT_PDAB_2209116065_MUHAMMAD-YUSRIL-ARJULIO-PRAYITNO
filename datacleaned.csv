@@ -1,0 +1,1001 @@
+Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,AgeGroup,Spending Type,PriceCategory
+Male,34,Beauty,3,50,150,Early Adult,Moderate Spend,Cheap
+Female,26,Clothing,2,500,1000,Young Adult,High Spend,Expensive
+Male,50,Electronics,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Male,37,Clothing,1,500,500,Early Adult,Moderate Spend,Expensive
+Male,30,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Female,45,Beauty,1,30,30,Adult,Low Spend,Cheap
+Male,46,Clothing,2,25,50,Adult,Low Spend,Cheap
+Male,30,Electronics,4,25,100,Early Adult,Low Spend,Cheap
+Male,63,Electronics,2,300,600,Elderly Adult,High Spend,Moderate
+Female,52,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,23,Clothing,2,50,100,Young Adult,Low Spend,Cheap
+Male,35,Beauty,3,25,75,Early Adult,Low Spend,Cheap
+Male,22,Electronics,3,500,1500,Young Adult,High Spend,Expensive
+Male,64,Clothing,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Female,42,Electronics,4,500,2000,Adult,High Spend,Expensive
+Male,19,Clothing,3,500,1500,Young Adult,High Spend,Expensive
+Female,27,Clothing,4,25,100,Young Adult,Low Spend,Cheap
+Female,47,Electronics,2,25,50,Adult,Low Spend,Cheap
+Female,62,Clothing,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,22,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Female,50,Beauty,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Male,18,Clothing,2,50,100,Young Adult,Low Spend,Cheap
+Female,35,Clothing,4,30,120,Early Adult,Moderate Spend,Cheap
+Female,49,Clothing,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,64,Beauty,1,50,50,Elderly Adult,Low Spend,Cheap
+Female,28,Electronics,2,500,1000,Early Adult,High Spend,Expensive
+Female,38,Beauty,2,25,50,Adult,Low Spend,Cheap
+Female,43,Beauty,1,500,500,Adult,Moderate Spend,Expensive
+Female,42,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,39,Beauty,3,300,900,Adult,High Spend,Moderate
+Male,44,Electronics,4,300,1200,Adult,High Spend,Moderate
+Male,30,Beauty,3,30,90,Early Adult,Low Spend,Cheap
+Female,50,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,51,Clothing,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,58,Beauty,3,300,900,Elderly Adult,High Spend,Moderate
+Male,52,Beauty,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,18,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Male,38,Beauty,4,50,200,Adult,Moderate Spend,Cheap
+Male,23,Clothing,4,30,120,Young Adult,Moderate Spend,Cheap
+Male,45,Beauty,1,50,50,Adult,Low Spend,Cheap
+Male,34,Clothing,2,25,50,Early Adult,Low Spend,Cheap
+Male,22,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Female,48,Clothing,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,22,Clothing,1,25,25,Young Adult,Low Spend,Cheap
+Female,55,Electronics,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,20,Electronics,4,300,1200,Young Adult,High Spend,Moderate
+Female,40,Beauty,3,500,1500,Adult,High Spend,Expensive
+Male,54,Electronics,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,54,Electronics,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,27,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Male,27,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Female,36,Beauty,1,300,300,Early Adult,Moderate Spend,Moderate
+Male,34,Electronics,2,50,100,Early Adult,Low Spend,Cheap
+Female,38,Electronics,3,500,1500,Adult,High Spend,Expensive
+Male,31,Beauty,4,30,120,Early Adult,Moderate Spend,Cheap
+Female,26,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Female,63,Beauty,1,30,30,Elderly Adult,Low Spend,Cheap
+Male,18,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Male,62,Clothing,1,50,50,Elderly Adult,Low Spend,Cheap
+Male,30,Beauty,3,50,150,Early Adult,Moderate Spend,Cheap
+Male,21,Beauty,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,18,Beauty,2,50,100,Young Adult,Low Spend,Cheap
+Male,57,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,49,Clothing,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,51,Electronics,4,500,2000,Middle-Aged Adult,High Spend,Expensive
+Female,45,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,48,Beauty,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Male,25,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,56,Beauty,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Female,43,Clothing,1,300,300,Adult,Moderate Spend,Moderate
+Female,51,Beauty,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,20,Electronics,4,500,2000,Young Adult,High Spend,Expensive
+Male,29,Electronics,3,30,90,Early Adult,Low Spend,Cheap
+Female,18,Beauty,4,500,2000,Young Adult,High Spend,Expensive
+Male,61,Beauty,4,50,200,Elderly Adult,Moderate Spend,Cheap
+Female,22,Electronics,2,50,100,Young Adult,Low Spend,Cheap
+Female,47,Clothing,2,50,100,Adult,Low Spend,Cheap
+Female,47,Clothing,3,500,1500,Adult,High Spend,Expensive
+Male,34,Beauty,1,300,300,Early Adult,Moderate Spend,Moderate
+Female,64,Clothing,2,30,60,Elderly Adult,Low Spend,Cheap
+Male,40,Electronics,1,50,50,Adult,Low Spend,Cheap
+Female,32,Beauty,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,54,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,38,Electronics,3,30,90,Adult,Low Spend,Cheap
+Male,31,Clothing,3,50,150,Early Adult,Moderate Spend,Cheap
+Male,19,Beauty,3,30,90,Young Adult,Low Spend,Cheap
+Female,28,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Male,56,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,55,Electronics,4,500,2000,Middle-Aged Adult,High Spend,Expensive
+Female,51,Electronics,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,55,Electronics,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,51,Electronics,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,35,Beauty,4,500,2000,Early Adult,High Spend,Expensive
+Female,47,Beauty,2,500,1000,Adult,High Spend,Expensive
+Female,32,Clothing,2,30,60,Early Adult,Low Spend,Cheap
+Female,44,Clothing,2,300,600,Adult,High Spend,Moderate
+Female,51,Beauty,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,55,Beauty,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,50,Electronics,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Male,41,Electronics,1,30,30,Adult,Low Spend,Cheap
+Male,32,Clothing,2,300,600,Early Adult,High Spend,Moderate
+Female,47,Beauty,2,25,50,Adult,Low Spend,Cheap
+Female,59,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,34,Beauty,2,500,1000,Early Adult,High Spend,Expensive
+Female,22,Electronics,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,46,Clothing,1,50,50,Adult,Low Spend,Cheap
+Female,21,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Female,27,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Female,34,Electronics,4,500,2000,Early Adult,High Spend,Expensive
+Male,27,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Female,34,Electronics,3,500,1500,Early Adult,High Spend,Expensive
+Male,37,Clothing,3,500,1500,Early Adult,High Spend,Expensive
+Female,41,Electronics,2,25,50,Adult,Low Spend,Cheap
+Female,22,Beauty,4,25,100,Young Adult,Low Spend,Cheap
+Male,51,Clothing,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,23,Clothing,1,30,30,Young Adult,Low Spend,Cheap
+Male,19,Electronics,2,500,1000,Young Adult,High Spend,Expensive
+Female,30,Electronics,4,500,2000,Early Adult,High Spend,Expensive
+Female,60,Clothing,3,50,150,Elderly Adult,Moderate Spend,Cheap
+Male,60,Beauty,1,50,50,Elderly Adult,Low Spend,Cheap
+Female,28,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,64,Electronics,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Female,40,Electronics,2,30,60,Adult,Low Spend,Cheap
+Male,33,Clothing,4,500,2000,Early Adult,High Spend,Expensive
+Male,48,Clothing,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,28,Clothing,3,30,90,Early Adult,Low Spend,Cheap
+Female,33,Clothing,2,25,50,Early Adult,Low Spend,Cheap
+Male,25,Beauty,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,21,Beauty,2,300,600,Young Adult,High Spend,Moderate
+Female,57,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,21,Beauty,2,300,600,Young Adult,High Spend,Moderate
+Male,42,Electronics,4,50,200,Adult,Moderate Spend,Cheap
+Male,20,Electronics,3,300,900,Young Adult,High Spend,Moderate
+Male,49,Electronics,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Male,20,Clothing,2,25,50,Young Adult,Low Spend,Cheap
+Male,44,Electronics,2,300,600,Adult,High Spend,Moderate
+Male,46,Beauty,2,500,1000,Adult,High Spend,Expensive
+Male,49,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,36,Beauty,4,500,2000,Early Adult,High Spend,Expensive
+Male,38,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,22,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Male,35,Electronics,4,300,1200,Early Adult,High Spend,Moderate
+Female,45,Clothing,1,50,50,Adult,Low Spend,Cheap
+Female,59,Beauty,3,500,1500,Elderly Adult,High Spend,Expensive
+Female,39,Clothing,3,25,75,Adult,Low Spend,Cheap
+Male,38,Clothing,4,50,200,Adult,Moderate Spend,Cheap
+Male,23,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Male,18,Clothing,2,30,60,Young Adult,Low Spend,Cheap
+Male,22,Clothing,3,25,75,Young Adult,Low Spend,Cheap
+Female,58,Electronics,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Male,29,Clothing,1,50,50,Early Adult,Low Spend,Cheap
+Male,43,Electronics,4,500,2000,Adult,High Spend,Expensive
+Male,63,Electronics,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,51,Electronics,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,31,Electronics,4,500,2000,Early Adult,High Spend,Expensive
+Female,43,Clothing,4,25,100,Adult,Low Spend,Cheap
+Male,62,Electronics,4,500,2000,Elderly Adult,High Spend,Expensive
+Female,44,Electronics,2,300,600,Adult,High Spend,Moderate
+Male,26,Clothing,4,50,200,Young Adult,Moderate Spend,Cheap
+Female,43,Clothing,2,50,100,Adult,Low Spend,Cheap
+Male,64,Beauty,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,39,Clothing,2,30,60,Adult,Low Spend,Cheap
+Female,64,Clothing,3,50,150,Elderly Adult,Moderate Spend,Cheap
+Female,47,Beauty,3,500,1500,Adult,High Spend,Expensive
+Female,60,Clothing,4,300,1200,Elderly Adult,High Spend,Moderate
+Male,34,Clothing,4,500,2000,Early Adult,High Spend,Expensive
+Female,43,Clothing,3,50,150,Adult,Moderate Spend,Cheap
+Male,53,Clothing,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Male,18,Beauty,3,500,1500,Young Adult,High Spend,Expensive
+Female,25,Clothing,2,25,50,Young Adult,Low Spend,Cheap
+Female,52,Clothing,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,32,Beauty,2,25,50,Early Adult,Low Spend,Cheap
+Male,64,Electronics,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Female,39,Beauty,1,300,300,Adult,Moderate Spend,Moderate
+Female,31,Electronics,4,25,100,Early Adult,Low Spend,Cheap
+Female,43,Beauty,2,50,100,Adult,Low Spend,Cheap
+Male,45,Beauty,2,50,100,Adult,Low Spend,Cheap
+Male,40,Clothing,2,30,60,Adult,Low Spend,Cheap
+Male,31,Electronics,1,300,300,Early Adult,Moderate Spend,Moderate
+Male,41,Clothing,3,300,900,Adult,High Spend,Moderate
+Male,19,Electronics,4,300,1200,Young Adult,High Spend,Moderate
+Male,62,Beauty,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Female,43,Beauty,3,300,900,Adult,High Spend,Moderate
+Male,31,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,24,Clothing,1,25,25,Young Adult,Low Spend,Cheap
+Male,20,Clothing,4,50,200,Young Adult,Moderate Spend,Cheap
+Female,64,Clothing,2,50,100,Elderly Adult,Low Spend,Cheap
+Male,40,Clothing,3,25,75,Adult,Low Spend,Cheap
+Male,63,Beauty,1,50,50,Elderly Adult,Low Spend,Cheap
+Female,60,Beauty,3,30,90,Elderly Adult,Low Spend,Cheap
+Male,64,Beauty,1,25,25,Elderly Adult,Low Spend,Cheap
+Male,62,Beauty,2,50,100,Elderly Adult,Low Spend,Cheap
+Male,35,Beauty,3,500,1500,Early Adult,High Spend,Expensive
+Male,55,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,52,Clothing,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,32,Clothing,3,300,900,Early Adult,High Spend,Moderate
+Female,42,Clothing,4,50,200,Adult,Moderate Spend,Cheap
+Female,54,Beauty,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,45,Beauty,3,500,1500,Adult,High Spend,Expensive
+Male,27,Beauty,3,50,150,Young Adult,Moderate Spend,Cheap
+Male,56,Electronics,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Female,34,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Male,56,Clothing,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Male,39,Beauty,1,25,25,Adult,Low Spend,Cheap
+Female,43,Clothing,1,25,25,Adult,Low Spend,Cheap
+Male,61,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,42,Beauty,2,25,50,Adult,Low Spend,Cheap
+Female,34,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Female,30,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,37,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,42,Beauty,3,500,1500,Adult,High Spend,Expensive
+Male,21,Clothing,3,500,1500,Young Adult,High Spend,Expensive
+Male,27,Beauty,3,500,1500,Young Adult,High Spend,Expensive
+Male,20,Beauty,2,30,60,Young Adult,Low Spend,Cheap
+Male,58,Clothing,3,500,1500,Elderly Adult,High Spend,Expensive
+Male,62,Electronics,2,50,100,Elderly Adult,Low Spend,Cheap
+Female,35,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,64,Beauty,3,30,90,Elderly Adult,Low Spend,Cheap
+Female,53,Electronics,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Male,64,Beauty,1,500,500,Elderly Adult,Moderate Spend,Expensive
+Male,39,Beauty,2,300,600,Adult,High Spend,Moderate
+Male,51,Clothing,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,64,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,25,Clothing,1,50,50,Young Adult,Low Spend,Cheap
+Female,57,Beauty,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,61,Clothing,1,50,50,Elderly Adult,Low Spend,Cheap
+Male,36,Electronics,2,50,100,Early Adult,Low Spend,Cheap
+Female,59,Electronics,2,30,60,Elderly Adult,Low Spend,Cheap
+Male,58,Beauty,3,30,90,Elderly Adult,Low Spend,Cheap
+Male,54,Beauty,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Female,23,Clothing,3,50,150,Young Adult,Moderate Spend,Cheap
+Female,43,Beauty,1,25,25,Adult,Low Spend,Cheap
+Female,51,Beauty,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Female,62,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Female,23,Electronics,2,500,1000,Young Adult,High Spend,Expensive
+Female,54,Clothing,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Female,50,Beauty,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,39,Beauty,1,500,500,Adult,Moderate Spend,Expensive
+Male,38,Electronics,3,500,1500,Adult,High Spend,Expensive
+Female,23,Beauty,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,23,Electronics,3,25,75,Young Adult,Low Spend,Cheap
+Male,21,Clothing,1,25,25,Young Adult,Low Spend,Cheap
+Female,47,Electronics,3,300,900,Adult,High Spend,Moderate
+Male,28,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Male,47,Clothing,3,30,90,Adult,Low Spend,Cheap
+Female,48,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,41,Electronics,2,30,60,Adult,Low Spend,Cheap
+Male,26,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Male,20,Clothing,1,50,50,Young Adult,Low Spend,Cheap
+Male,48,Electronics,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Female,57,Beauty,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,54,Electronics,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,53,Clothing,4,500,2000,Middle-Aged Adult,High Spend,Expensive
+Male,41,Electronics,1,500,500,Adult,Moderate Spend,Expensive
+Male,48,Clothing,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Male,23,Clothing,2,500,1000,Young Adult,High Spend,Expensive
+Male,19,Beauty,4,500,2000,Young Adult,High Spend,Expensive
+Female,37,Clothing,1,50,50,Early Adult,Low Spend,Cheap
+Female,45,Clothing,4,50,200,Adult,Moderate Spend,Cheap
+Male,28,Beauty,2,30,60,Early Adult,Low Spend,Cheap
+Male,21,Clothing,2,25,50,Young Adult,Low Spend,Cheap
+Female,32,Beauty,4,30,120,Early Adult,Moderate Spend,Cheap
+Male,23,Beauty,2,30,60,Young Adult,Low Spend,Cheap
+Male,47,Clothing,3,300,900,Adult,High Spend,Moderate
+Male,55,Clothing,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,19,Electronics,2,30,60,Young Adult,Low Spend,Cheap
+Female,32,Beauty,3,30,90,Early Adult,Low Spend,Cheap
+Female,28,Electronics,1,30,30,Early Adult,Low Spend,Cheap
+Male,25,Clothing,4,500,2000,Young Adult,High Spend,Expensive
+Male,43,Electronics,1,300,300,Adult,Moderate Spend,Moderate
+Female,62,Beauty,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Female,61,Electronics,2,50,100,Elderly Adult,Low Spend,Cheap
+Female,22,Beauty,1,50,50,Young Adult,Low Spend,Cheap
+Female,23,Clothing,2,500,1000,Young Adult,High Spend,Expensive
+Male,43,Clothing,2,500,1000,Adult,High Spend,Expensive
+Female,21,Beauty,4,25,100,Young Adult,Low Spend,Cheap
+Male,36,Clothing,4,25,100,Early Adult,Low Spend,Cheap
+Female,37,Clothing,4,25,100,Early Adult,Low Spend,Cheap
+Male,50,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,37,Clothing,3,500,1500,Early Adult,High Spend,Expensive
+Female,29,Beauty,4,500,2000,Early Adult,High Spend,Expensive
+Female,64,Electronics,4,50,200,Elderly Adult,Moderate Spend,Cheap
+Female,18,Electronics,1,500,500,Young Adult,Moderate Spend,Expensive
+Male,43,Clothing,4,50,200,Adult,Moderate Spend,Cheap
+Female,31,Electronics,1,25,25,Early Adult,Low Spend,Cheap
+Male,55,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,54,Clothing,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,28,Clothing,4,30,120,Early Adult,Moderate Spend,Cheap
+Male,53,Electronics,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Female,30,Beauty,2,300,600,Early Adult,High Spend,Moderate
+Male,60,Clothing,2,300,600,Elderly Adult,High Spend,Moderate
+Male,20,Beauty,4,300,1200,Young Adult,High Spend,Moderate
+Male,50,Electronics,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Female,23,Clothing,3,30,90,Young Adult,Low Spend,Cheap
+Female,27,Beauty,3,300,900,Young Adult,High Spend,Moderate
+Female,22,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Female,40,Electronics,2,500,1000,Adult,High Spend,Expensive
+Male,27,Beauty,4,300,1200,Young Adult,High Spend,Moderate
+Male,61,Electronics,2,500,1000,Elderly Adult,High Spend,Expensive
+Female,19,Electronics,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,30,Clothing,4,30,120,Early Adult,Moderate Spend,Cheap
+Male,57,Beauty,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Male,19,Electronics,3,30,90,Young Adult,Low Spend,Cheap
+Female,37,Electronics,2,30,60,Early Adult,Low Spend,Cheap
+Female,18,Beauty,1,30,30,Young Adult,Low Spend,Cheap
+Male,54,Electronics,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Female,26,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Female,34,Beauty,4,300,1200,Early Adult,High Spend,Moderate
+Female,26,Beauty,1,25,25,Young Adult,Low Spend,Cheap
+Female,28,Beauty,1,25,25,Early Adult,Low Spend,Cheap
+Female,32,Beauty,4,25,100,Early Adult,Low Spend,Cheap
+Male,41,Clothing,4,30,120,Adult,Moderate Spend,Cheap
+Female,55,Beauty,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Male,52,Clothing,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Male,47,Clothing,2,30,60,Adult,Low Spend,Cheap
+Female,48,Clothing,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,22,Electronics,3,30,90,Young Adult,Low Spend,Cheap
+Male,61,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Male,31,Clothing,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,28,Electronics,4,300,1200,Early Adult,High Spend,Moderate
+Female,26,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Male,51,Electronics,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,29,Beauty,3,300,900,Early Adult,High Spend,Moderate
+Female,52,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,52,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Female,18,Clothing,3,25,75,Young Adult,Low Spend,Cheap
+Male,57,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Male,39,Beauty,2,50,100,Adult,Low Spend,Cheap
+Female,46,Electronics,4,25,100,Adult,Low Spend,Cheap
+Female,25,Beauty,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,28,Electronics,3,30,90,Early Adult,Low Spend,Cheap
+Male,58,Electronics,4,300,1200,Elderly Adult,High Spend,Moderate
+Female,54,Electronics,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Male,31,Electronics,3,300,900,Early Adult,High Spend,Moderate
+Female,47,Beauty,4,30,120,Adult,Moderate Spend,Cheap
+Female,52,Beauty,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Male,38,Clothing,1,500,500,Adult,Moderate Spend,Expensive
+Male,54,Beauty,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,22,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Female,36,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Male,31,Clothing,4,50,200,Early Adult,Moderate Spend,Cheap
+Female,43,Clothing,4,500,2000,Adult,High Spend,Expensive
+Male,21,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Female,42,Beauty,1,30,30,Adult,Low Spend,Cheap
+Male,62,Electronics,1,30,30,Elderly Adult,Low Spend,Cheap
+Male,59,Clothing,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,42,Electronics,1,25,25,Adult,Low Spend,Cheap
+Female,35,Electronics,2,300,600,Early Adult,High Spend,Moderate
+Female,57,Beauty,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Male,25,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Female,56,Clothing,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Male,57,Electronics,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Male,31,Electronics,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,49,Beauty,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Female,55,Electronics,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Male,50,Electronics,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,40,Electronics,3,25,75,Adult,Low Spend,Cheap
+Female,32,Beauty,1,300,300,Early Adult,Moderate Spend,Moderate
+Male,50,Clothing,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Male,42,Clothing,4,25,100,Adult,Low Spend,Cheap
+Female,34,Electronics,4,300,1200,Early Adult,High Spend,Moderate
+Male,50,Clothing,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Male,64,Beauty,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,19,Beauty,1,500,500,Young Adult,Moderate Spend,Expensive
+Male,31,Clothing,1,300,300,Early Adult,Moderate Spend,Moderate
+Male,57,Clothing,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,57,Electronics,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Female,56,Clothing,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Male,23,Electronics,3,500,1500,Young Adult,High Spend,Expensive
+Male,23,Electronics,2,30,60,Young Adult,Low Spend,Cheap
+Female,20,Beauty,1,25,25,Young Adult,Low Spend,Cheap
+Female,24,Beauty,3,500,1500,Young Adult,High Spend,Expensive
+Female,25,Beauty,2,300,600,Young Adult,High Spend,Moderate
+Female,59,Beauty,3,25,75,Elderly Adult,Low Spend,Cheap
+Male,32,Clothing,1,50,50,Early Adult,Low Spend,Cheap
+Female,64,Beauty,1,30,30,Elderly Adult,Low Spend,Cheap
+Female,46,Clothing,4,50,200,Adult,Moderate Spend,Cheap
+Male,50,Beauty,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,47,Clothing,1,25,25,Adult,Low Spend,Cheap
+Male,56,Electronics,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Female,44,Clothing,4,25,100,Adult,Low Spend,Cheap
+Female,53,Clothing,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,46,Beauty,3,30,90,Adult,Low Spend,Cheap
+Male,55,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Male,50,Electronics,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,54,Electronics,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Male,44,Beauty,1,30,30,Adult,Low Spend,Cheap
+Male,50,Electronics,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Male,21,Clothing,2,25,50,Young Adult,Low Spend,Cheap
+Male,39,Electronics,2,50,100,Adult,Low Spend,Cheap
+Male,19,Beauty,2,25,50,Young Adult,Low Spend,Cheap
+Male,27,Clothing,2,300,600,Young Adult,High Spend,Moderate
+Female,22,Beauty,2,500,1000,Young Adult,High Spend,Expensive
+Female,27,Clothing,1,500,500,Young Adult,Moderate Spend,Expensive
+Male,50,Electronics,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,55,Beauty,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,30,Beauty,1,25,25,Early Adult,Low Spend,Cheap
+Female,48,Clothing,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Female,64,Beauty,2,30,60,Elderly Adult,Low Spend,Cheap
+Male,53,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Female,62,Clothing,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Female,41,Clothing,2,300,600,Adult,High Spend,Moderate
+Male,32,Clothing,2,300,600,Early Adult,High Spend,Moderate
+Male,46,Electronics,2,500,1000,Adult,High Spend,Expensive
+Female,25,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Female,22,Beauty,4,25,100,Young Adult,Low Spend,Cheap
+Female,46,Electronics,3,300,900,Adult,High Spend,Moderate
+Female,64,Beauty,1,500,500,Elderly Adult,Moderate Spend,Expensive
+Female,21,Electronics,3,300,900,Young Adult,High Spend,Moderate
+Female,29,Clothing,2,50,100,Early Adult,Low Spend,Cheap
+Male,62,Electronics,4,50,200,Elderly Adult,Moderate Spend,Cheap
+Female,19,Electronics,4,500,2000,Young Adult,High Spend,Expensive
+Female,44,Beauty,3,25,75,Adult,Low Spend,Cheap
+Male,48,Beauty,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,53,Clothing,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Male,53,Electronics,4,500,2000,Middle-Aged Adult,High Spend,Expensive
+Male,43,Electronics,3,300,900,Adult,High Spend,Moderate
+Female,60,Electronics,2,500,1000,Elderly Adult,High Spend,Expensive
+Female,44,Clothing,3,30,90,Adult,Low Spend,Cheap
+Female,22,Clothing,4,500,2000,Young Adult,High Spend,Expensive
+Female,37,Clothing,3,500,1500,Early Adult,High Spend,Expensive
+Female,28,Clothing,3,30,90,Early Adult,Low Spend,Cheap
+Female,27,Clothing,1,25,25,Young Adult,Low Spend,Cheap
+Male,57,Beauty,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Female,55,Electronics,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Male,23,Electronics,3,50,150,Young Adult,Moderate Spend,Cheap
+Male,25,Electronics,1,25,25,Young Adult,Low Spend,Cheap
+Female,40,Electronics,4,50,200,Adult,Moderate Spend,Cheap
+Male,64,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Female,43,Electronics,3,300,900,Adult,High Spend,Moderate
+Male,63,Electronics,4,300,1200,Elderly Adult,High Spend,Moderate
+Female,60,Electronics,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,29,Beauty,4,50,200,Early Adult,Moderate Spend,Cheap
+Female,43,Electronics,2,25,50,Adult,Low Spend,Cheap
+Female,30,Beauty,3,300,900,Early Adult,High Spend,Moderate
+Female,57,Clothing,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,35,Electronics,4,300,1200,Early Adult,High Spend,Moderate
+Female,42,Clothing,1,30,30,Adult,Low Spend,Cheap
+Male,50,Clothing,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Male,64,Clothing,2,300,600,Elderly Adult,High Spend,Moderate
+Male,57,Beauty,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Female,60,Clothing,4,25,100,Elderly Adult,Low Spend,Cheap
+Male,29,Clothing,2,300,600,Early Adult,High Spend,Moderate
+Female,61,Clothing,3,30,90,Elderly Adult,Low Spend,Cheap
+Female,53,Electronics,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Male,21,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Male,22,Beauty,4,500,2000,Young Adult,High Spend,Expensive
+Female,54,Beauty,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Male,25,Electronics,4,50,200,Young Adult,Moderate Spend,Cheap
+Female,59,Beauty,2,25,50,Elderly Adult,Low Spend,Cheap
+Female,45,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,48,Clothing,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,26,Clothing,2,500,1000,Young Adult,High Spend,Expensive
+Female,46,Beauty,1,25,25,Adult,Low Spend,Cheap
+Male,31,Electronics,4,25,100,Early Adult,Low Spend,Cheap
+Male,57,Electronics,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Female,58,Beauty,3,300,900,Elderly Adult,High Spend,Moderate
+Female,39,Electronics,4,25,100,Adult,Low Spend,Cheap
+Male,28,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Male,40,Beauty,1,50,50,Adult,Low Spend,Cheap
+Female,18,Beauty,2,500,1000,Young Adult,High Spend,Expensive
+Male,63,Electronics,4,300,1200,Elderly Adult,High Spend,Moderate
+Female,54,Beauty,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Male,38,Electronics,2,300,600,Adult,High Spend,Moderate
+Female,43,Electronics,3,50,150,Adult,Moderate Spend,Cheap
+Male,63,Electronics,4,25,100,Elderly Adult,Low Spend,Cheap
+Female,53,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Male,40,Electronics,1,25,25,Adult,Low Spend,Cheap
+Male,18,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Female,57,Clothing,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Male,32,Clothing,3,50,150,Early Adult,Moderate Spend,Cheap
+Female,38,Beauty,3,300,900,Adult,High Spend,Moderate
+Male,64,Beauty,1,50,50,Elderly Adult,Low Spend,Cheap
+Female,26,Clothing,3,500,1500,Young Adult,High Spend,Expensive
+Male,26,Clothing,3,25,75,Young Adult,Low Spend,Cheap
+Female,27,Clothing,4,500,2000,Young Adult,High Spend,Expensive
+Male,43,Clothing,4,30,120,Adult,Moderate Spend,Cheap
+Female,58,Clothing,2,30,60,Elderly Adult,Low Spend,Cheap
+Male,52,Electronics,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Female,42,Beauty,4,500,2000,Adult,High Spend,Expensive
+Female,43,Electronics,4,300,1200,Adult,High Spend,Moderate
+Female,28,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Male,55,Clothing,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,19,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Male,24,Electronics,1,30,30,Young Adult,Low Spend,Cheap
+Female,35,Electronics,1,25,25,Early Adult,Low Spend,Cheap
+Male,44,Clothing,4,500,2000,Adult,High Spend,Expensive
+Female,51,Electronics,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,44,Electronics,1,30,30,Adult,Low Spend,Cheap
+Male,34,Clothing,3,50,150,Early Adult,Moderate Spend,Cheap
+Female,60,Electronics,3,300,900,Elderly Adult,High Spend,Moderate
+Male,61,Beauty,4,25,100,Elderly Adult,Low Spend,Cheap
+Male,41,Beauty,2,25,50,Adult,Low Spend,Cheap
+Female,42,Beauty,4,50,200,Adult,Moderate Spend,Cheap
+Male,24,Beauty,2,30,60,Young Adult,Low Spend,Cheap
+Male,23,Clothing,2,300,600,Young Adult,High Spend,Moderate
+Male,41,Clothing,4,30,120,Adult,Moderate Spend,Cheap
+Female,50,Clothing,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,46,Beauty,2,30,60,Adult,Low Spend,Cheap
+Female,60,Beauty,4,25,100,Elderly Adult,Low Spend,Cheap
+Male,39,Electronics,2,30,60,Adult,Low Spend,Cheap
+Male,43,Electronics,3,50,150,Adult,Moderate Spend,Cheap
+Male,45,Beauty,4,500,2000,Adult,High Spend,Expensive
+Female,38,Beauty,3,50,150,Adult,Moderate Spend,Cheap
+Male,24,Beauty,1,50,50,Young Adult,Low Spend,Cheap
+Male,34,Beauty,3,500,1500,Early Adult,High Spend,Expensive
+Female,37,Electronics,3,500,1500,Early Adult,High Spend,Expensive
+Male,58,Beauty,2,300,600,Elderly Adult,High Spend,Moderate
+Female,37,Electronics,3,300,900,Early Adult,High Spend,Moderate
+Female,39,Beauty,4,50,200,Adult,Moderate Spend,Cheap
+Male,45,Beauty,2,50,100,Adult,Low Spend,Cheap
+Female,57,Beauty,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Male,24,Electronics,4,25,100,Young Adult,Low Spend,Cheap
+Female,18,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,49,Clothing,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,30,Beauty,4,25,100,Early Adult,Low Spend,Cheap
+Female,47,Clothing,4,25,100,Adult,Low Spend,Cheap
+Female,40,Clothing,1,30,30,Adult,Low Spend,Cheap
+Female,36,Electronics,4,30,120,Early Adult,Moderate Spend,Cheap
+Female,49,Electronics,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,47,Clothing,4,30,120,Adult,Moderate Spend,Cheap
+Male,46,Beauty,3,500,1500,Adult,High Spend,Expensive
+Female,62,Electronics,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Male,46,Beauty,4,300,1200,Adult,High Spend,Moderate
+Female,47,Beauty,2,25,50,Adult,Low Spend,Cheap
+Male,33,Clothing,2,50,100,Early Adult,Low Spend,Cheap
+Male,57,Clothing,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Female,36,Clothing,2,30,60,Early Adult,Low Spend,Cheap
+Female,35,Clothing,3,50,150,Early Adult,Moderate Spend,Cheap
+Female,18,Electronics,4,30,120,Young Adult,Moderate Spend,Cheap
+Male,31,Electronics,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,64,Clothing,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Male,19,Electronics,3,500,1500,Young Adult,High Spend,Expensive
+Male,45,Clothing,2,500,1000,Adult,High Spend,Expensive
+Male,47,Beauty,3,30,90,Adult,Low Spend,Cheap
+Female,55,Beauty,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,21,Beauty,1,500,500,Young Adult,Moderate Spend,Expensive
+Male,18,Clothing,3,50,150,Young Adult,Moderate Spend,Cheap
+Male,25,Beauty,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,46,Electronics,3,300,900,Adult,High Spend,Moderate
+Male,56,Beauty,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,20,Beauty,1,50,50,Young Adult,Low Spend,Cheap
+Male,49,Beauty,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Female,27,Electronics,1,25,25,Young Adult,Low Spend,Cheap
+Male,27,Clothing,2,25,50,Young Adult,Low Spend,Cheap
+Female,36,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,63,Clothing,4,500,2000,Elderly Adult,High Spend,Expensive
+Female,51,Clothing,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Female,50,Beauty,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Male,40,Clothing,3,300,900,Adult,High Spend,Moderate
+Male,45,Electronics,3,300,900,Adult,High Spend,Moderate
+Female,49,Electronics,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Male,24,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Female,46,Beauty,3,50,150,Adult,Moderate Spend,Cheap
+Male,25,Beauty,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,18,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Female,20,Beauty,3,30,90,Young Adult,Low Spend,Cheap
+Female,41,Clothing,1,25,25,Adult,Low Spend,Cheap
+Female,40,Clothing,4,300,1200,Adult,High Spend,Moderate
+Female,25,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Female,64,Clothing,4,500,2000,Elderly Adult,High Spend,Expensive
+Male,54,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,20,Clothing,2,30,60,Young Adult,Low Spend,Cheap
+Male,50,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,45,Beauty,2,30,60,Adult,Low Spend,Cheap
+Female,64,Clothing,1,30,30,Elderly Adult,Low Spend,Cheap
+Female,25,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Female,51,Electronics,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Male,52,Electronics,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,49,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,41,Electronics,1,50,50,Adult,Low Spend,Cheap
+Male,31,Clothing,4,500,2000,Early Adult,High Spend,Expensive
+Male,49,Beauty,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Female,63,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,60,Clothing,2,50,100,Elderly Adult,Low Spend,Cheap
+Female,33,Beauty,3,50,150,Early Adult,Moderate Spend,Cheap
+Male,21,Beauty,4,500,2000,Young Adult,High Spend,Expensive
+Female,54,Clothing,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,38,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,31,Clothing,3,500,1500,Early Adult,High Spend,Expensive
+Female,48,Beauty,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Male,35,Clothing,3,300,900,Early Adult,High Spend,Moderate
+Female,24,Electronics,4,25,100,Young Adult,Low Spend,Cheap
+Female,27,Beauty,4,50,200,Young Adult,Moderate Spend,Cheap
+Female,24,Clothing,1,25,25,Young Adult,Low Spend,Cheap
+Male,50,Electronics,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Female,40,Beauty,4,300,1200,Adult,High Spend,Moderate
+Male,38,Electronics,2,30,60,Adult,Low Spend,Cheap
+Female,36,Beauty,2,500,1000,Early Adult,High Spend,Expensive
+Male,36,Clothing,3,300,900,Early Adult,High Spend,Moderate
+Male,53,Electronics,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,46,Beauty,4,500,2000,Adult,High Spend,Expensive
+Male,35,Electronics,2,30,60,Early Adult,Low Spend,Cheap
+Female,19,Electronics,2,300,600,Young Adult,High Spend,Moderate
+Female,18,Clothing,4,500,2000,Young Adult,High Spend,Expensive
+Female,64,Electronics,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Male,22,Beauty,4,300,1200,Young Adult,High Spend,Moderate
+Male,37,Beauty,4,30,120,Early Adult,Moderate Spend,Cheap
+Female,28,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Female,59,Beauty,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,19,Clothing,1,30,30,Young Adult,Low Spend,Cheap
+Female,20,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,40,Clothing,3,30,90,Adult,Low Spend,Cheap
+Female,29,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,37,Electronics,2,500,1000,Early Adult,High Spend,Expensive
+Male,22,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Male,54,Clothing,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Female,55,Electronics,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,47,Clothing,2,50,100,Adult,Low Spend,Cheap
+Female,26,Beauty,2,300,600,Young Adult,High Spend,Moderate
+Male,51,Beauty,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,61,Electronics,1,500,500,Elderly Adult,Moderate Spend,Expensive
+Female,52,Clothing,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Female,39,Beauty,4,300,1200,Adult,High Spend,Moderate
+Female,61,Clothing,4,25,100,Elderly Adult,Low Spend,Cheap
+Male,41,Clothing,2,50,100,Adult,Low Spend,Cheap
+Male,34,Electronics,1,30,30,Early Adult,Low Spend,Cheap
+Female,27,Beauty,1,50,50,Young Adult,Low Spend,Cheap
+Male,47,Electronics,4,25,100,Adult,Low Spend,Cheap
+Male,63,Electronics,3,25,75,Elderly Adult,Low Spend,Cheap
+Female,40,Beauty,2,500,1000,Adult,High Spend,Expensive
+Female,49,Beauty,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Male,34,Clothing,3,50,150,Early Adult,Moderate Spend,Cheap
+Female,34,Beauty,3,300,900,Early Adult,High Spend,Moderate
+Male,31,Clothing,1,300,300,Early Adult,Moderate Spend,Moderate
+Female,26,Clothing,4,500,2000,Young Adult,High Spend,Expensive
+Male,57,Clothing,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Female,19,Beauty,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,62,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,42,Clothing,2,50,100,Adult,Low Spend,Cheap
+Male,56,Electronics,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Female,26,Electronics,4,25,100,Young Adult,Low Spend,Cheap
+Male,39,Beauty,4,30,120,Adult,Moderate Spend,Cheap
+Male,60,Electronics,4,500,2000,Elderly Adult,High Spend,Expensive
+Female,63,Electronics,3,300,900,Elderly Adult,High Spend,Moderate
+Female,21,Beauty,3,500,1500,Young Adult,High Spend,Expensive
+Male,43,Clothing,2,300,600,Adult,High Spend,Moderate
+Male,46,Electronics,1,500,500,Adult,Moderate Spend,Expensive
+Female,62,Beauty,4,50,200,Elderly Adult,Moderate Spend,Cheap
+Female,51,Electronics,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,40,Electronics,1,300,300,Adult,Moderate Spend,Moderate
+Female,54,Clothing,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,28,Electronics,3,30,90,Early Adult,Low Spend,Cheap
+Male,23,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Female,35,Electronics,4,30,120,Early Adult,Moderate Spend,Cheap
+Male,38,Clothing,3,30,90,Adult,Low Spend,Cheap
+Male,59,Clothing,3,500,1500,Elderly Adult,High Spend,Expensive
+Male,53,Beauty,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Female,58,Clothing,2,300,600,Elderly Adult,High Spend,Moderate
+Male,55,Electronics,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Male,51,Clothing,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,34,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Male,54,Clothing,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Male,42,Clothing,3,25,75,Adult,Low Spend,Cheap
+Female,55,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Male,29,Beauty,3,30,90,Early Adult,Low Spend,Cheap
+Male,40,Clothing,1,25,25,Adult,Low Spend,Cheap
+Male,59,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,39,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,38,Beauty,2,500,1000,Adult,High Spend,Expensive
+Female,44,Clothing,4,25,100,Adult,Low Spend,Cheap
+Male,48,Beauty,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Male,23,Clothing,4,300,1200,Young Adult,High Spend,Moderate
+Female,44,Clothing,4,500,2000,Adult,High Spend,Expensive
+Male,57,Clothing,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Male,51,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,29,Electronics,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,62,Electronics,3,50,150,Elderly Adult,Moderate Spend,Cheap
+Male,24,Beauty,4,300,1200,Young Adult,High Spend,Moderate
+Male,27,Beauty,1,30,30,Young Adult,Low Spend,Cheap
+Male,62,Electronics,3,50,150,Elderly Adult,Moderate Spend,Cheap
+Female,34,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Female,43,Clothing,3,500,1500,Adult,High Spend,Expensive
+Female,38,Clothing,1,300,300,Adult,Moderate Spend,Moderate
+Female,45,Clothing,2,30,60,Adult,Low Spend,Cheap
+Male,63,Electronics,3,500,1500,Elderly Adult,High Spend,Expensive
+Female,19,Beauty,3,500,1500,Young Adult,High Spend,Expensive
+Female,60,Electronics,3,300,900,Elderly Adult,High Spend,Moderate
+Female,18,Beauty,3,30,90,Young Adult,Low Spend,Cheap
+Female,53,Clothing,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,43,Electronics,2,30,60,Adult,Low Spend,Cheap
+Male,46,Beauty,4,300,1200,Adult,High Spend,Moderate
+Male,38,Beauty,2,500,1000,Adult,High Spend,Expensive
+Female,28,Clothing,2,500,1000,Early Adult,High Spend,Expensive
+Male,57,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Female,28,Electronics,4,50,200,Early Adult,Moderate Spend,Cheap
+Female,53,Electronics,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Male,56,Clothing,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,57,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,52,Clothing,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,51,Clothing,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Female,64,Clothing,2,50,100,Elderly Adult,Low Spend,Cheap
+Male,41,Beauty,3,500,1500,Adult,High Spend,Expensive
+Female,39,Electronics,2,25,50,Adult,Low Spend,Cheap
+Female,22,Electronics,3,50,150,Young Adult,Moderate Spend,Cheap
+Female,50,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,53,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,64,Electronics,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Female,37,Clothing,4,30,120,Early Adult,Moderate Spend,Cheap
+Male,36,Electronics,4,500,2000,Early Adult,High Spend,Expensive
+Female,52,Beauty,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Female,60,Clothing,2,300,600,Elderly Adult,High Spend,Moderate
+Male,34,Electronics,2,50,100,Early Adult,Low Spend,Cheap
+Female,62,Clothing,3,30,90,Elderly Adult,Low Spend,Cheap
+Male,60,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,51,Electronics,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,26,Clothing,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,43,Beauty,3,300,900,Adult,High Spend,Moderate
+Female,19,Electronics,2,500,1000,Young Adult,High Spend,Expensive
+Female,26,Electronics,3,500,1500,Young Adult,High Spend,Expensive
+Male,26,Electronics,3,500,1500,Young Adult,High Spend,Expensive
+Female,57,Beauty,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,34,Beauty,3,25,75,Early Adult,Low Spend,Cheap
+Female,18,Clothing,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,42,Beauty,4,25,100,Adult,Low Spend,Cheap
+Female,60,Clothing,4,300,1200,Elderly Adult,High Spend,Moderate
+Male,57,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,59,Beauty,3,25,75,Elderly Adult,Low Spend,Cheap
+Female,42,Clothing,2,30,60,Adult,Low Spend,Cheap
+Female,56,Beauty,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,52,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Male,20,Beauty,3,300,900,Young Adult,High Spend,Moderate
+Female,54,Beauty,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,61,Clothing,3,50,150,Elderly Adult,Moderate Spend,Cheap
+Male,61,Electronics,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Male,47,Clothing,4,300,1200,Adult,High Spend,Moderate
+Male,55,Beauty,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,51,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Male,29,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Female,36,Clothing,2,25,50,Early Adult,Low Spend,Cheap
+Male,54,Clothing,4,500,2000,Middle-Aged Adult,High Spend,Expensive
+Male,61,Electronics,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,34,Beauty,1,30,30,Early Adult,Low Spend,Cheap
+Female,27,Clothing,1,30,30,Young Adult,Low Spend,Cheap
+Female,64,Clothing,4,500,2000,Elderly Adult,High Spend,Expensive
+Male,29,Clothing,4,25,100,Early Adult,Low Spend,Cheap
+Female,33,Clothing,1,50,50,Early Adult,Low Spend,Cheap
+Male,41,Clothing,2,50,100,Adult,Low Spend,Cheap
+Male,36,Beauty,1,25,25,Early Adult,Low Spend,Cheap
+Female,25,Beauty,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,48,Clothing,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,38,Electronics,4,500,2000,Adult,High Spend,Expensive
+Female,34,Beauty,4,500,2000,Early Adult,High Spend,Expensive
+Male,40,Electronics,1,25,25,Adult,Low Spend,Cheap
+Male,54,Beauty,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Female,33,Clothing,3,30,90,Early Adult,Low Spend,Cheap
+Male,23,Beauty,1,30,30,Young Adult,Low Spend,Cheap
+Male,25,Clothing,3,50,150,Young Adult,Moderate Spend,Cheap
+Male,42,Beauty,1,30,30,Adult,Low Spend,Cheap
+Female,35,Clothing,3,25,75,Early Adult,Low Spend,Cheap
+Female,42,Clothing,2,25,50,Adult,Low Spend,Cheap
+Male,29,Clothing,2,50,100,Early Adult,Low Spend,Cheap
+Female,32,Clothing,1,30,30,Early Adult,Low Spend,Cheap
+Female,43,Electronics,4,25,100,Adult,Low Spend,Cheap
+Female,58,Clothing,3,25,75,Elderly Adult,Low Spend,Cheap
+Female,62,Electronics,4,300,1200,Elderly Adult,High Spend,Moderate
+Female,43,Electronics,4,300,1200,Adult,High Spend,Moderate
+Male,64,Clothing,4,25,100,Elderly Adult,Low Spend,Cheap
+Male,49,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Male,27,Beauty,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,33,Clothing,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,24,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Male,34,Clothing,2,25,50,Early Adult,Low Spend,Cheap
+Female,40,Clothing,1,25,25,Adult,Low Spend,Cheap
+Male,43,Clothing,4,50,200,Adult,Moderate Spend,Cheap
+Male,38,Electronics,3,300,900,Adult,High Spend,Moderate
+Male,39,Beauty,3,25,75,Adult,Low Spend,Cheap
+Female,24,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Female,31,Electronics,4,30,120,Early Adult,Moderate Spend,Cheap
+Male,32,Clothing,1,50,50,Early Adult,Low Spend,Cheap
+Male,24,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Male,26,Electronics,1,30,30,Young Adult,Low Spend,Cheap
+Male,25,Electronics,4,500,2000,Young Adult,High Spend,Expensive
+Female,40,Clothing,2,25,50,Adult,Low Spend,Cheap
+Female,46,Electronics,4,25,100,Adult,Low Spend,Cheap
+Male,35,Clothing,3,30,90,Early Adult,Low Spend,Cheap
+Male,48,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,47,Beauty,4,25,100,Adult,Low Spend,Cheap
+Female,56,Electronics,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Male,52,Electronics,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,35,Beauty,1,500,500,Early Adult,Moderate Spend,Expensive
+Male,59,Clothing,3,300,900,Elderly Adult,High Spend,Moderate
+Female,56,Clothing,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,34,Electronics,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,31,Beauty,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,48,Clothing,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,41,Electronics,1,25,25,Adult,Low Spend,Cheap
+Female,52,Beauty,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,61,Clothing,4,500,2000,Elderly Adult,High Spend,Expensive
+Male,62,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,51,Beauty,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Female,20,Beauty,1,50,50,Young Adult,Low Spend,Cheap
+Male,54,Beauty,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,60,Beauty,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Male,57,Electronics,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Male,43,Beauty,4,30,120,Adult,Moderate Spend,Cheap
+Male,40,Clothing,3,25,75,Adult,Low Spend,Cheap
+Male,61,Clothing,1,50,50,Elderly Adult,Low Spend,Cheap
+Male,56,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Male,32,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Male,21,Clothing,4,50,200,Young Adult,Moderate Spend,Cheap
+Female,46,Beauty,1,30,30,Adult,Low Spend,Cheap
+Male,39,Clothing,4,25,100,Adult,Low Spend,Cheap
+Male,42,Electronics,1,30,30,Adult,Low Spend,Cheap
+Female,30,Beauty,3,500,1500,Early Adult,High Spend,Expensive
+Female,35,Beauty,3,300,900,Early Adult,High Spend,Moderate
+Female,50,Electronics,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,33,Beauty,4,500,2000,Early Adult,High Spend,Expensive
+Female,62,Beauty,2,50,100,Elderly Adult,Low Spend,Cheap
+Male,59,Electronics,4,25,100,Elderly Adult,Low Spend,Cheap
+Male,61,Beauty,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,19,Electronics,3,25,75,Young Adult,Low Spend,Cheap
+Male,52,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,59,Clothing,1,500,500,Elderly Adult,Moderate Spend,Expensive
+Female,51,Clothing,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Male,47,Beauty,2,500,1000,Adult,High Spend,Expensive
+Male,30,Beauty,4,50,200,Early Adult,Moderate Spend,Cheap
+Male,30,Electronics,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,35,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Male,49,Electronics,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,49,Electronics,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,52,Beauty,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,56,Electronics,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Male,63,Clothing,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Female,46,Beauty,1,25,25,Adult,Low Spend,Cheap
+Female,46,Clothing,1,300,300,Adult,Moderate Spend,Moderate
+Male,61,Beauty,3,300,900,Elderly Adult,High Spend,Moderate
+Female,33,Electronics,4,300,1200,Early Adult,High Spend,Moderate
+Male,61,Beauty,3,30,90,Elderly Adult,Low Spend,Cheap
+Female,64,Clothing,3,50,150,Elderly Adult,Moderate Spend,Cheap
+Male,27,Electronics,4,25,100,Young Adult,Low Spend,Cheap
+Male,47,Beauty,4,500,2000,Adult,High Spend,Expensive
+Male,42,Beauty,4,50,200,Adult,Moderate Spend,Cheap
+Female,56,Beauty,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Male,37,Clothing,4,50,200,Early Adult,Moderate Spend,Cheap
+Female,22,Clothing,1,50,50,Young Adult,Low Spend,Cheap
+Male,18,Beauty,3,30,90,Young Adult,Low Spend,Cheap
+Male,47,Electronics,2,300,600,Adult,High Spend,Moderate
+Female,20,Electronics,4,300,1200,Young Adult,High Spend,Moderate
+Male,62,Clothing,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,31,Electronics,4,25,100,Early Adult,Low Spend,Cheap
+Female,47,Clothing,2,300,600,Adult,High Spend,Moderate
+Male,21,Beauty,3,500,1500,Young Adult,High Spend,Expensive
+Male,35,Clothing,3,50,150,Early Adult,Moderate Spend,Cheap
+Male,54,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Male,42,Beauty,1,50,50,Adult,Low Spend,Cheap
+Female,18,Electronics,4,300,1200,Young Adult,High Spend,Moderate
+Female,63,Clothing,3,25,75,Elderly Adult,Low Spend,Cheap
+Male,32,Clothing,2,25,50,Early Adult,Low Spend,Cheap
+Female,26,Beauty,2,500,1000,Young Adult,High Spend,Expensive
+Male,32,Electronics,2,25,50,Early Adult,Low Spend,Cheap
+Female,41,Clothing,1,300,300,Adult,Moderate Spend,Moderate
+Male,21,Beauty,2,500,1000,Young Adult,High Spend,Expensive
+Male,29,Clothing,1,50,50,Early Adult,Low Spend,Cheap
+Male,54,Beauty,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Male,54,Electronics,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Male,60,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,23,Electronics,2,50,100,Young Adult,Low Spend,Cheap
+Female,56,Electronics,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Male,63,Clothing,4,50,200,Elderly Adult,Moderate Spend,Cheap
+Female,41,Clothing,3,30,90,Adult,Low Spend,Cheap
+Male,28,Electronics,4,300,1200,Early Adult,High Spend,Moderate
+Female,30,Electronics,2,25,50,Early Adult,Low Spend,Cheap
+Female,51,Electronics,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,42,Clothing,1,300,300,Adult,Moderate Spend,Moderate
+Male,24,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Male,21,Electronics,1,500,500,Young Adult,Moderate Spend,Expensive
+Female,25,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Male,37,Beauty,3,500,1500,Early Adult,High Spend,Expensive
+Female,46,Electronics,4,30,120,Adult,Moderate Spend,Cheap
+Male,62,Beauty,2,30,60,Elderly Adult,Low Spend,Cheap
+Female,63,Beauty,3,25,75,Elderly Adult,Low Spend,Cheap
+Female,27,Electronics,4,25,100,Young Adult,Low Spend,Cheap
+Male,60,Beauty,1,30,30,Elderly Adult,Low Spend,Cheap
+Female,51,Electronics,4,500,2000,Middle-Aged Adult,High Spend,Expensive
+Male,43,Clothing,4,30,120,Adult,Moderate Spend,Cheap
+Female,58,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,20,Clothing,1,30,30,Young Adult,Low Spend,Cheap
+Male,23,Clothing,1,30,30,Young Adult,Low Spend,Cheap
+Male,22,Beauty,2,500,1000,Young Adult,High Spend,Expensive
+Male,22,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,64,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Male,40,Electronics,1,500,500,Adult,Moderate Spend,Expensive
+Female,26,Clothing,2,30,60,Young Adult,Low Spend,Cheap
+Female,52,Clothing,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Male,37,Electronics,3,300,900,Early Adult,High Spend,Moderate
+Male,59,Clothing,4,25,100,Elderly Adult,Low Spend,Cheap
+Female,52,Electronics,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Female,35,Electronics,1,50,50,Early Adult,Low Spend,Cheap
+Male,34,Electronics,2,25,50,Early Adult,Low Spend,Cheap
+Male,41,Electronics,3,300,900,Adult,High Spend,Moderate
+Male,20,Electronics,1,50,50,Young Adult,Low Spend,Cheap
+Male,49,Electronics,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Male,52,Electronics,1,30,30,Middle-Aged Adult,Low Spend,Cheap
+Female,55,Clothing,4,30,120,Middle-Aged Adult,Moderate Spend,Cheap
+Female,30,Electronics,2,25,50,Early Adult,Low Spend,Cheap
+Female,64,Electronics,2,50,100,Elderly Adult,Low Spend,Cheap
+Female,42,Clothing,3,30,90,Adult,Low Spend,Cheap
+Male,26,Clothing,2,300,600,Young Adult,High Spend,Moderate
+Male,21,Clothing,2,30,60,Young Adult,Low Spend,Cheap
+Male,31,Electronics,1,30,30,Early Adult,Low Spend,Cheap
+Female,54,Beauty,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Female,51,Beauty,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,28,Clothing,1,500,500,Early Adult,Moderate Spend,Expensive
+Male,58,Beauty,1,300,300,Elderly Adult,Moderate Spend,Moderate
+Female,20,Clothing,1,50,50,Young Adult,Low Spend,Cheap
+Female,45,Electronics,1,25,25,Adult,Low Spend,Cheap
+Male,46,Beauty,4,300,1200,Adult,High Spend,Moderate
+Male,26,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Female,20,Beauty,3,50,150,Young Adult,Moderate Spend,Cheap
+Male,42,Electronics,3,300,900,Adult,High Spend,Moderate
+Male,51,Beauty,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Male,29,Electronics,3,30,90,Early Adult,Low Spend,Cheap
+Female,59,Electronics,1,500,500,Elderly Adult,Moderate Spend,Expensive
+Female,26,Beauty,3,30,90,Young Adult,Low Spend,Cheap
+Female,32,Electronics,1,50,50,Early Adult,Low Spend,Cheap
+Female,57,Electronics,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Female,42,Electronics,3,30,90,Adult,Low Spend,Cheap
+Female,22,Beauty,2,25,50,Young Adult,Low Spend,Cheap
+Female,28,Beauty,3,25,75,Early Adult,Low Spend,Cheap
+Male,51,Electronics,3,25,75,Middle-Aged Adult,Low Spend,Cheap
+Male,41,Electronics,1,50,50,Adult,Low Spend,Cheap
+Male,32,Beauty,3,300,900,Early Adult,High Spend,Moderate
+Male,55,Beauty,2,50,100,Middle-Aged Adult,Low Spend,Cheap
+Male,25,Electronics,1,300,300,Young Adult,Moderate Spend,Moderate
+Male,22,Electronics,1,30,30,Young Adult,Low Spend,Cheap
+Male,43,Electronics,4,500,2000,Adult,High Spend,Expensive
+Female,35,Clothing,4,300,1200,Early Adult,High Spend,Moderate
+Female,23,Beauty,3,25,75,Young Adult,Low Spend,Cheap
+Male,54,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,30,Beauty,4,30,120,Early Adult,Moderate Spend,Cheap
+Female,45,Beauty,4,25,100,Adult,Low Spend,Cheap
+Male,22,Beauty,1,30,30,Young Adult,Low Spend,Cheap
+Male,30,Beauty,1,500,500,Early Adult,Moderate Spend,Expensive
+Female,34,Beauty,1,50,50,Early Adult,Low Spend,Cheap
+Male,57,Beauty,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Female,62,Beauty,1,500,500,Elderly Adult,Moderate Spend,Expensive
+Male,49,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Female,46,Electronics,1,300,300,Adult,Moderate Spend,Moderate
+Female,20,Electronics,1,30,30,Young Adult,Low Spend,Cheap
+Female,57,Clothing,2,25,50,Middle-Aged Adult,Low Spend,Cheap
+Male,51,Clothing,3,500,1500,Middle-Aged Adult,High Spend,Expensive
+Female,57,Clothing,4,300,1200,Middle-Aged Adult,High Spend,Moderate
+Male,44,Clothing,2,25,50,Adult,Low Spend,Cheap
+Male,30,Beauty,1,25,25,Early Adult,Low Spend,Cheap
+Male,62,Electronics,4,500,2000,Elderly Adult,High Spend,Expensive
+Male,50,Beauty,1,300,300,Middle-Aged Adult,Moderate Spend,Moderate
+Female,23,Electronics,3,25,75,Young Adult,Low Spend,Cheap
+Female,41,Electronics,2,25,50,Adult,Low Spend,Cheap
+Male,36,Clothing,3,300,900,Early Adult,High Spend,Moderate
+Male,33,Beauty,2,50,100,Early Adult,Low Spend,Cheap
+Female,57,Clothing,1,25,25,Middle-Aged Adult,Low Spend,Cheap
+Male,45,Beauty,3,30,90,Adult,Low Spend,Cheap
+Female,50,Electronics,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Male,58,Clothing,1,25,25,Elderly Adult,Low Spend,Cheap
+Male,30,Clothing,3,500,1500,Early Adult,High Spend,Expensive
+Female,60,Electronics,4,30,120,Elderly Adult,Moderate Spend,Cheap
+Male,62,Electronics,2,25,50,Elderly Adult,Low Spend,Cheap
+Female,42,Electronics,2,30,60,Adult,Low Spend,Cheap
+Male,59,Clothing,2,30,60,Elderly Adult,Low Spend,Cheap
+Male,53,Beauty,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Male,44,Clothing,2,30,60,Adult,Low Spend,Cheap
+Female,55,Beauty,1,50,50,Middle-Aged Adult,Low Spend,Cheap
+Male,24,Clothing,3,300,900,Young Adult,High Spend,Moderate
+Male,22,Clothing,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,60,Electronics,2,500,1000,Elderly Adult,High Spend,Expensive
+Male,62,Beauty,1,25,25,Elderly Adult,Low Spend,Cheap
+Female,48,Clothing,3,300,900,Middle-Aged Adult,High Spend,Moderate
+Female,40,Clothing,3,300,900,Adult,High Spend,Moderate
+Male,59,Electronics,4,500,2000,Elderly Adult,High Spend,Expensive
+Female,27,Electronics,4,50,200,Young Adult,Moderate Spend,Cheap
+Male,49,Beauty,4,25,100,Middle-Aged Adult,Low Spend,Cheap
+Male,60,Clothing,1,50,50,Elderly Adult,Low Spend,Cheap
+Male,47,Beauty,1,30,30,Adult,Low Spend,Cheap
+Female,56,Clothing,4,50,200,Middle-Aged Adult,Moderate Spend,Cheap
+Female,48,Beauty,2,300,600,Middle-Aged Adult,High Spend,Moderate
+Female,35,Electronics,3,25,75,Early Adult,Low Spend,Cheap
+Female,53,Clothing,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,19,Beauty,1,25,25,Young Adult,Low Spend,Cheap
+Female,31,Electronics,3,25,75,Early Adult,Low Spend,Cheap
+Female,30,Electronics,2,30,60,Early Adult,Low Spend,Cheap
+Female,46,Beauty,3,30,90,Adult,Low Spend,Cheap
+Female,29,Clothing,1,300,300,Early Adult,Moderate Spend,Moderate
+Male,56,Clothing,1,500,500,Middle-Aged Adult,Moderate Spend,Expensive
+Female,19,Electronics,2,25,50,Young Adult,Low Spend,Cheap
+Female,49,Clothing,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,30,Clothing,3,300,900,Early Adult,High Spend,Moderate
+Female,63,Clothing,3,25,75,Elderly Adult,Low Spend,Cheap
+Female,44,Electronics,1,25,25,Adult,Low Spend,Cheap
+Female,58,Beauty,2,500,1000,Elderly Adult,High Spend,Expensive
+Female,34,Clothing,2,50,100,Early Adult,Low Spend,Cheap
+Female,57,Electronics,2,30,60,Middle-Aged Adult,Low Spend,Cheap
+Female,48,Electronics,3,50,150,Middle-Aged Adult,Moderate Spend,Cheap
+Female,51,Beauty,2,500,1000,Middle-Aged Adult,High Spend,Expensive
+Female,41,Clothing,1,30,30,Adult,Low Spend,Cheap
+Male,62,Clothing,1,50,50,Elderly Adult,Low Spend,Cheap
+Male,52,Beauty,3,30,90,Middle-Aged Adult,Low Spend,Cheap
+Female,23,Beauty,4,25,100,Young Adult,Low Spend,Cheap
+Female,36,Electronics,3,50,150,Early Adult,Moderate Spend,Cheap
+Male,47,Electronics,4,30,120,Adult,Moderate Spend,Cheap
